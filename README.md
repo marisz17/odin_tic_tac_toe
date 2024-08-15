@@ -1,1 +1,3 @@
-# odin_tic_tac_toe
+# Project: Tic Tac Toe
+
+https://www.theodinproject.com/lessons/ruby-tic-tac-toe
