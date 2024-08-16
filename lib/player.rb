@@ -7,6 +7,7 @@ class Player
   end
 
   attr_accessor :letter
+  attr_reader :name
 
   def self.allocate_letters(player_one, player_two)
     player_one.letter = 'X'
